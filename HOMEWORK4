@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>AICHA'S FORM</title>
+</head>
+<body>
+<h1>APPLYING FORM</h1>
+<h2>First one</h2>
+<form action="yyyyy" method="get" target="_blank">
+    <label >Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label >Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+<h2>Second one</h2>
+<form action="xxxxxx" method="post" target="_self">
+    <label >Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label >Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
