@@ -1,0 +1,21 @@
+
+<!--Link to another site -->
+<a href="https://www.karabuk.edu.tr/">KarabukUniversityMainPage</a><br>
+<!--Link to an anchor-->
+<a href="#AraştırmaveGeliştirme">Bilgi Işlem Daire Başkanlığı</a><br>
+<!--Link to a page on the same site-->
+<a href="https://obs.karabuk.edu.tr/">OBS</a><br>
+<!--Link that dials a number-->
+<a href="Number:+866565576">Call Us</a><br>
+<!--Link that runs JavaScript-->
+<script>
+    alert('AICHAPAGE');
+</script>
+<a href="javascript:alert('AICHAPAGE')">Click Me</a><br>
+<!--Link that runs email client-->
+<a href="nnnnn@example.com">Email Us</a><br>
+<!--Link that open the link on a new tab-->
+<a href="https://www.example.com" target="_blank">Visit Example.com</a><br>
+
+
+
